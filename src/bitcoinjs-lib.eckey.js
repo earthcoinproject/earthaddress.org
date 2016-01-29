@@ -303,7 +303,7 @@ Bitcoin.ECKey = (function () {
 		return /^[A-Fa-f0-9]{64}$/.test(key);
 	};
 
-	// 51 characters base58, always starts with a '5'
+	// 51 characters base58, always starts with an '8'
 	ECKey.isWalletImportFormat = function (key) {
 		key = key.toString();
 		return (ECKey.privateKeyPrefix == 0xDD) ?

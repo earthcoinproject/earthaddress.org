@@ -153,7 +153,7 @@
 		"detaillabelpublickeycomp": "Chiave pubblica (compressa, 66 caratteri [0-9A-F]):",
 		"detaillabelprivwif": "Chiave privata WIF<br>51 caratteri base58, inizia per a",
 		"detaillabelprivwifcomp": "Chiave privata WIF compressa<br>52 caratteri base58, inizia per 'a'",
-		"detailcompwifprefix": "'K' o 'L'",
+		"detailcompwifprefix": "'Z'",
 		"detaillabelprivhex": "Chiave privata formato esadecimale (64 caratteri [0-9A-F]):",
 		"detaillabelprivb64": "Chiave privata Base64 (44 caratteri):",
 		"detaillabelprivmini": "Chiave privata formato mini (22, 26 or 30 caratteri, inizia per 'S'):",

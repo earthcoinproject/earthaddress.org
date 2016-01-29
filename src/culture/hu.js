@@ -160,7 +160,7 @@
 		"detaillabelpublickeycomp": "Tömörített Publikus Kulcs (66 karakter [0-9A-F]):",
 		"detaillabelprivwif": "WIF Privát Kulcs <br />51 db base58 karakter, melynek kezdete",
 		"detaillabelprivwifcomp": "Tömörített WIF Privát Kulcs <br />52 db base58 karakter, melynek kezdete",
-		"detailcompwifprefix": "'K' vagy 'L'",
+		"detailcompwifprefix": "'Z'",
 		"detaillabelprivhex": "Hexadecimális formátumú Privát Kulcs (64 karakter [0-9A-F]):",
 		"detaillabelprivb64": "Base64 formátumú Privát Kulcs (44 karakter):",
 		"detaillabelprivmini": "Mini formátumú Privát Kulcs (22, 26 vagy 30 karakter, amely egy 'S'-sel kezdődik):",

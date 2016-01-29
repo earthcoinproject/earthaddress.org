@@ -153,7 +153,7 @@
 		"detaillabelpublickeycomp": "Komprimovaný veřejný klíč (66 znaků [0-9A-F]):",
 		"detaillabelprivwif": "Soukromý klíč WIF  <br />51 znaků v base58, začíná",
 		"detaillabelprivwifcomp": "Komprimovaný soukromý klíč WIF <br />52 znaků v base58, začíná",
-		"detailcompwifprefix": "'K' nebo 'L'",
+		"detailcompwifprefix": "'Z'",
 		"detaillabelprivhex": "Soukromý klíč v hexadecimálním formátů (64 znaků [0-9A-F]):",
 		"detaillabelprivb64": "Soukromý klíč v base64 (44 znaků):",
 		"detaillabelprivmini": "Soukromý klíč v mini formátů (22, 26 nebo 30 znaků, začíná 'S'):",

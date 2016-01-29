@@ -153,7 +153,7 @@
 		"detaillabelpublickeycomp": "Clave pública (comprimida, 66 caracteres [0-9A-F]):",
 		"detaillabelprivwif": "Clave privada para importar (51 caracteres en base58, empieza con un",
 		"detaillabelprivwifcomp": "Clave privada para importar (comprimida, 52 caracteres en base58, empieza con",
-		"detailcompwifprefix": "'K' o 'L'",
+		"detailcompwifprefix": "'Z'",
 		"detaillabelprivhex": "Clave privada en formato hexadecimal (64 caracteres [0-9A-F]):",
 		"detaillabelprivb64": "Clave privada en base64 (44 caracteres):",
 		"detaillabelprivmini": "Clave privada en formato mini (22, 26 o 30 caracteres, empieza por 'S'):",
