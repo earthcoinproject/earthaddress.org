@@ -152,7 +152,7 @@
 		"detailview": "显示详情",
 		"detailprint": "打印",
 		"detaillabelnote1": "比特币私钥应当是只有你知道的保密代码，这段代码有许多种不同的编码格式。下面会给出此私钥对应的地址、公钥，以及最流行的私钥编码格式(WIF, WIFC, HEX, B64, MINI)",
-		"detaillabelnote2": "EarthCoin v0.6+ 存储压缩格式的公钥。现在客户端支持导入/导出私钥，命令是importprivkey/dumpprivkey，导出的格式可能因钱包文件版本而不同。",
+		"detaillabelnote2": "EarthCoin v1.0+ 存储压缩格式的公钥。现在客户端支持导入/导出私钥，命令是importprivkey/dumpprivkey，导出的格式可能因钱包文件版本而不同。",
 		"detaillabelbitcoinaddress": "比特币地址",
 		"detaillabelbitcoinaddresscomp": "比特币地址(压缩格式)",
 		"detaillabelpublickey": "公钥 (130位[0-9A-F]字符)",
